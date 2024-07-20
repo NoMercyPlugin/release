@@ -1,0 +1,17 @@
+{
+  "name": "Crazy Train plugin",
+  "author": "Crazy Mercenary",
+  "version": "1.0.0",
+  "minVersion": "1.128.3",
+  "supportedVersion": "1.130.1",
+  "basePackage": "eu.darkbot.mercenary",
+  "features": [
+    "eu.darkbot.mercenary.behaviours.ammosaver.AmmoSaver",
+    "eu.darkbot.mercenary.modules.oreseller.OreSeller",
+    "eu.darkbot.mercenary.behaviours.autodisconnect.AutoDisconnect",
+    "eu.darkbot.mercenary.behaviours.AttackPlayer"
+  ],
+  "donation": "https://discord.gg/h44gdAfPKS",
+  "download": "https://gist.github.com/0dayYakuza/45336ed33629f66426860ddcc1e1236a/raw/RuskiPlugin.jar",
+  "update": "https://gist.github.com/0dayYakuza/45336ed33629f66426860ddcc1e1236a/raw/plugin.json"
+}
